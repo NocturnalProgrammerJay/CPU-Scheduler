@@ -1,3 +1,3 @@
-# CPU-Scheduler - FCFS/SJF/MLFQ
-OS Project 2022 
-(COPY N PASTE CODE) here -> https://www.onlinegdb.com/
+# OS Project 2022 
+### CPU-Scheduler: simulating FCFS/SJF/MLFQ algorithms
+(COPY N PASTE) code here -> https://www.onlinegdb.com/
