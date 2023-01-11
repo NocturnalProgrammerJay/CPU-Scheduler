@@ -5,4 +5,5 @@
 
 ![MLFQ](https://user-images.githubusercontent.com/96387037/211724714-c02dc214-707a-4a27-9ae0-fc821e23a8bf.PNG)
 
-![3rd](https://user-images.githubusercontent.com/96387037/211724593-3affc0df-4ff1-4bf9-bb48-bb179fb3a36b.JPG)
+![IMG_6667](https://user-images.githubusercontent.com/96387037/211724832-07ed5898-97f3-488d-8858-b11224080e3c.jpeg)
+
